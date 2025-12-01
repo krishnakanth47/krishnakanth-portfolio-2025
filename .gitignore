@@ -7,8 +7,9 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+# Dependencies and Build Outputs
 node_modules
-dist
+#dist  <-- THIS LINE IS NOW COMMENTED OUT
 dist-ssr
 *.local
 
